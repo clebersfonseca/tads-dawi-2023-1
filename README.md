@@ -1,5 +1,5 @@
 # TADS IFRS - Rio Grande 2023 - 1º Semestre
-# Desenvolvimento WEB I
+# Desenvolvimento APLICATIVO WEB I
 
 # CRONOGRAMA
 
